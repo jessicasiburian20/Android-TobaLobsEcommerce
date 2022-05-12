@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661751698244",
+    "project_id": "tobalobs-9efa3",
+    "storage_bucket": "tobalobs-9efa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661751698244:android:9d299ebf9dd658d0f73d11",
+        "android_client_info": {
+          "package_name": "j012.tobalobsecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661751698244-ku0evhih1uhnourum0up534rkoqpala8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXQNX5symcdxvTmeuu8IQqzUugW3j5Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661751698244-ku0evhih1uhnourum0up534rkoqpala8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
